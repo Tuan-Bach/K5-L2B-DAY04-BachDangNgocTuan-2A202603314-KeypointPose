@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603314",
+ "ten": "BachDangNgocTuan",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "bachtuan2612",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000019754.jpg",
+  "000000150500.jpg",
+  "000000162046.jpg",
+  "000000294329.jpg",
+  "000000558066.jpg",
+  "000000078170.jpg",
+  "000000179201.jpg",
+  "000000183176.jpg",
+  "000000297227.jpg",
+  "000000480582.jpg",
+  "000000100510.jpg",
+  "000000309169.jpg"
+ ],
+ "faces": [
+  "face_145751.jpg",
+  "face_362568.jpg",
+  "face_496353.jpg",
+  "face_137371.jpg",
+  "face_505385.jpg",
+  "face_168953.jpg",
+  "face_405456.jpg",
+  "face_562485.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 22,
+   "job_id": 22,
+   "task_name": "persons-BachDangNgocTuan"
+  },
+  "faces": {
+   "task_id": 23,
+   "job_id": 23,
+   "task_name": "faces-BachDangNgocTuan"
+  }
+ }
+}
